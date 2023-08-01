@@ -1,0 +1,75 @@
+tr{
+    margin: 5px;
+    padding: 5px;
+}
+
+td{
+    margin: 5px;
+    padding: 5px;
+}
+
+.tabla .dias{
+    font-size:larger;
+}
+
+.tabla .dias .habiles{
+    color: #9575de;
+}
+
+.tabla .dias .finde{
+    color:#e966a0;
+}
+
+.tabla .manana .turno{
+font-size: larger;
+color: #7f8487;
+}
+
+.tabla .manana .habiles{
+    color: #9575de;
+}
+
+.tabla .manana .finde{
+    color:#e966a0;
+}
+
+.tabla .tarde .turno{
+    font-size: larger;
+    color: #7f8487;
+    }
+
+.tabla .tarde .habiles{
+    color: #9575de;
+}
+
+.tabla .tarde .finde{
+    color:#e966a0;
+}
+
+.tabla .virtual{
+    color: #6554af;
+}
+
+.horarios{
+background-color: #b2a4ff;
+text-align: center;
+padding: 5px 0 35px 0;
+}
+
+.horarios .titulo{
+    background-color: #e966a0;
+    font-size:xx-large;
+    color:#ffffff;
+    padding: 5px 2px 5px 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.horarios .tabla{
+    font-size: larger;
+    ;
+    background-color: #eaeaea;
+    table-layout: auto;
+    margin: 0 auto;
+}
